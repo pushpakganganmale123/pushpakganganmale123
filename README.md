@@ -96,7 +96,7 @@ FastAPI · Streamlit · REST APIs · Git · GitHub · Docker
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/pushpakganganmale](https://linkedin.com/in/pushpakganganmale/)
+- **LinkedIn:** [linkedin.com/in/pushpakganganmale](https://www.linkedin.com/in/pushpak-ganganmale-784a0a32b/)
 - **GitHub:** [github.com/pushpakganganmale123](https://github.com/pushpakganganmale123)
 - **LeetCode:** [leetcode.com/u/Pushpak_G_3010](https://leetcode.com/u/Pushpak_G_3010/)
 - **Email:** [pushpakganganmale@gmail.com](mailto:pushpakganganmale@gmail.com)
