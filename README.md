@@ -1,21 +1,24 @@
 # Pushpak Ganganmale
 
-### AI Engineer | Agentic AI | RAG Systems | LLM Applications
+### AI Engineer | Data Engineer | Data Analyst | LLM & RAG Systems
 
-I am a Computer Engineering graduate (2026) focused on building practical AI applications using Large Language Models, Agentic AI, and Retrieval-Augmented Generation.
+I am a Computer Engineering graduate (2026) focused on building practical applications across **Artificial Intelligence, Data Engineering, and Data Analytics**.
 
-I enjoy developing systems that combine LLMs, retrieval pipelines, tools, and structured workflows to solve real-world problems.
+I enjoy developing intelligent applications, designing automated data pipelines, working with structured datasets, and transforming raw data into meaningful insights.
 
-- Focus: **Agentic AI, RAG, LLM Applications**
-- Primary Language: **Python**
-- Currently exploring: **LangChain, LangGraph, Multi-Agent Systems**
-- Also familiar with: **Java, SQL, REST APIs**
+- **AI Focus:** Agentic AI, RAG, LLM Applications
+- **Data Engineering:** ETL Pipelines, Apache Airflow, PostgreSQL, Docker
+- **Data Analytics:** Python, Pandas, SQL, Data Visualization
+- **Primary Languages:** Python, SQL, Java
+- **Currently Exploring:** LangGraph, Multi-Agent Systems, dbt, Advanced SQL
 
 ---
 
-## Featured AI Projects
+## Featured Projects
 
-### 1. Agentic AI Basics
+### AI Engineering
+
+#### 1. Agentic AI Basics
 
 A hands-on collection of Python tutorials covering the fundamentals of Agentic AI, LangChain, LangGraph, and RAG.
 
@@ -32,11 +35,11 @@ A hands-on collection of Python tutorials covering the fundamentals of Agentic A
 - [GitHub Repository](https://github.com/pushpakganganmale123/agentic-ai-basics)
 - [Live Demo](https://agentic-ai-basics123.vercel.app/)
 
-### 2. RAG Hybrid Search Pipeline
+#### 2. RAG Hybrid Search Pipeline
 
 A document retrieval system combining semantic vector search and BM25 keyword search to improve information retrieval from indexed documents.
 
-**Key features:**
+**Key Features:**
 - Document ingestion and processing
 - Multiple document chunking strategies
 - Embeddings and vector-based retrieval
@@ -52,6 +55,48 @@ A document retrieval system combining semantic vector search and BM25 keyword se
 
 ---
 
+### Data Engineering
+
+#### 3. BankFlow ETL – Banking Transaction Analytics
+
+A banking data engineering project focused on building and orchestrating data workflows for processing banking transaction data.
+
+**Key Areas:**
+- Automated ETL workflow orchestration
+- Apache Airflow DAG scheduling
+- PostgreSQL database integration
+- Banking transaction data processing
+- SQL-based data transformation
+- Docker-based development environment
+- Pipeline monitoring and workflow management
+
+**Tech Stack:** Python · Apache Airflow · PostgreSQL · SQL · Docker
+
+- GitHub Repository: In progress
+
+---
+
+### Data Analytics
+
+#### 4. Sales Data Pipeline & Analytics Dashboard
+
+An end-to-end data analytics project that processes raw sales data, performs data cleaning and transformation, stores processed data, and presents business insights through an interactive dashboard.
+
+**Key Features:**
+- Raw CSV data ingestion
+- Data cleaning and preprocessing using Pandas
+- Data transformation and aggregation
+- SQLite database integration
+- SQL-based analytical queries
+- Interactive Streamlit dashboard
+- Sales performance and business insights visualization
+
+**Tech Stack:** Python · Pandas · SQL · SQLite · Streamlit
+
+- GitHub Repository: In progress
+
+---
+
 ## Technical Skills
 
 **Programming Languages**
@@ -62,13 +107,21 @@ Python · Java · SQL · JavaScript
 
 LangChain · LangGraph · Google Gemini · Agentic AI · RAG · Prompt Engineering · Multi-Agent Systems
 
+**Data Engineering**
+
+Apache Airflow · ETL Pipelines · PostgreSQL · Docker · Data Processing · Workflow Orchestration · dbt
+
+**Data Analytics**
+
+Pandas · NumPy · SQL · SQLite · Data Cleaning · Exploratory Data Analysis · Data Visualization · Streamlit
+
 **Retrieval & Search**
 
 Embeddings · Vector Search · Semantic Search · BM25 · Hybrid Retrieval · Document Chunking · Retrieval Evaluation
 
 **Backend & Development Tools**
 
-FastAPI · Streamlit · REST APIs · Git · GitHub · Docker
+FastAPI · REST APIs · Git · GitHub · Docker
 
 ---
 
@@ -96,14 +149,14 @@ FastAPI · Streamlit · REST APIs · Git · GitHub · Docker
 
 ## Connect With Me
 
-- **LinkedIn:** [linkedin.com/in/pushpakganganmale](https://www.linkedin.com/in/pushpak-ganganmale-784a0a32b/)
+- **LinkedIn:** [linkedin.com/in/pushpak-ganganmale](https://www.linkedin.com/in/pushpak-ganganmale-784a0a32b/)
 - **GitHub:** [github.com/pushpakganganmale123](https://github.com/pushpakganganmale123)
 - **LeetCode:** [leetcode.com/u/Pushpak_G_3010](https://leetcode.com/u/Pushpak_G_3010/)
-- **Email:** [pushpakganganmale@gmail.com](mailto:pushpakganganmale@gmail.com)
+- **Email:** pushpakganganmale@gmail.com
 - **Location:** Maharashtra, India
 
 ---
 
 <p align="center">
-  <i>Building practical AI systems, one project at a time.</i>
+  <i>Building intelligent applications, engineering data pipelines, and transforming data into insights.</i>
 </p>
